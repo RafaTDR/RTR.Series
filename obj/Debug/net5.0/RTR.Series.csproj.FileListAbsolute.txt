@@ -1,0 +1,16 @@
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.csproj.AssemblyReference.cache
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.AssemblyInfoInputs.cache
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.AssemblyInfo.cs
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.csproj.CoreCompileInputs.cache
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.exe
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.deps.json
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.runtimeconfig.json
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.runtimeconfig.dev.json
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.dll
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\ref\RTR.Series.dll
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\bin\Debug\net5.0\RTR.Series.pdb
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.dll
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\ref\RTR.Series.dll
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.pdb
+F:\Users\Rafael E Bianca\Documents\ProjetosC#\RTR.Series\RTR.Series\obj\Debug\net5.0\RTR.Series.genruntimeconfig.cache
